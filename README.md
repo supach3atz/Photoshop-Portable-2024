@@ -1,4 +1,4 @@
-# Photoshop Portable 2024
+# Photoshop Portable 2024:
 Photoshop 2024 (Photoshop AI)
 
 Photoshop 2024 completely free and portable, no installation of libraries required.
